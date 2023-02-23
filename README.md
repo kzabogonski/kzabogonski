@@ -17,7 +17,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="30"> .
+I am a Full Stack Developer <img src="https://tenor.com/bQ3A6.gif" width="30"> .
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - ⚡ In my free time I read tech articles.
